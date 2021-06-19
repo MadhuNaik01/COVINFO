@@ -1,0 +1,89 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family: sans-serif;
+}
+
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar
+{
+    background-image: linear-gradient(to right, aqua, aqua);
+    padding: 0 !important;
+    color:black;
+}
+.navbar-brand
+{
+    height: 40px;
+    padding: 20px;
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    color:aqua;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+.fa-bars
+{
+    color: black;
+    font-size: !important;
+}
+.navbar-toggler
+{
+    outline: none !important;
+}
+
+#name_of_district
+{
+    background-color:black;
+    color:aliceblue;
+    padding: 5%;
+}
+#home
+{
+    background-color:black;
+    color:aliceblue;
+    padding: 5%;
+}
+
+#about
+{
+    background-color:black;
+    color:aliceblue;
+    padding: 5%;
+}
+
+
+#resources
+{
+    background-color: black;
+    color:aliceblue;
+    padding: 5%;
+}
+
+#footer
+{
+    background-image: linear-gradient(to right, aqua, aqua);
+    color:black;
+}
+
+
+
+
+
+
+
+
